@@ -15,3 +15,5 @@ python ~/ma-project/limit.py
 now you've got interactivable inventory
 
 enjoy:)
+
+abt that another py file,dont really matter much,just loop
