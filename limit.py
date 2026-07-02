@@ -6,7 +6,7 @@ limit = 1
 
 jumlah_wajar = 100
 
-opsi = ["tambahkan", "upgrade", "keluar"]
+opsi = ["tambahkan", "upgrade", "lihat", "keluar"]
 
 for nomor, option in enumerate(opsi, start=1):
         print(f"{nomor}. {option}")
@@ -62,6 +62,9 @@ while True:
             print(f"slot inventory sekarang: {limit}")
             
     elif pilihan == "3":
+        print(daftar)
+
+    elif pilihan == "4":
             break
     else:
         print("opsi tidak valid")        
