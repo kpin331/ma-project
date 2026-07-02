@@ -1,4 +1,4 @@
-#A Simple Python Project
+# A Simple Python Project
 
 in any linux terminal(pkg also can if u use termux):
 
